@@ -1,0 +1,12 @@
+<svg width="600" height="420" viewBox="0 0 600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="420" rx="28" fill="#F1EFE9"/>
+  <circle cx="140" cy="140" r="90" fill="#0A7B6C" opacity="0.12"/>
+  <circle cx="420" cy="120" r="70" fill="#D75F2A" opacity="0.14"/>
+  <circle cx="430" cy="300" r="110" fill="#0A7B6C" opacity="0.12"/>
+  <path d="M70 280 L220 200 L320 260 L520 160" stroke="#1C1C1C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M70 280 L220 200" stroke="#0A7B6C" stroke-width="6" stroke-linecap="round"/>
+  <path d="M220 200 L320 260" stroke="#D75F2A" stroke-width="6" stroke-linecap="round"/>
+  <path d="M320 260 L520 160" stroke="#0A7B6C" stroke-width="6" stroke-linecap="round"/>
+  <rect x="70" y="310" width="460" height="60" rx="16" fill="#FFFFFF"/>
+  <text x="92" y="348" font-family="Space Grotesk, sans-serif" font-size="18" fill="#1C1C1C">Physical AI | Robotics | Semiconductor Systems</text>
+</svg>
